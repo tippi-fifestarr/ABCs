@@ -46,3 +46,23 @@ z is for "zero knowledge proof": this "ZKP" NFT serves as a ticket to the "Ali B
 (tippi's storytime) experience." It can be easily be modified for the B release to have 
 VRF Randomness courtesy of chainlink, later.
 </div>
+
+## actual steps:
+0. readme complete
+1. in VS Code (or Sublime code editor), 
+"create a new index.html file" in /abcs/ folder
+2. in VS Code type "html5" and then press Tab on keyboard
+to autogenerate from scratch a solid start for html page.
+3. in the html document, look over its "head" and find the "title":
+make it something like "ABCs of ___________", for this one, blockchain!
+4. celebrate!
+5. search engine "simple html5 sticky navbar" (try top non ad link for ~1-3 minutes, press back delete and repeat until done if necessary)
+6. https://peterlunch.com/creating-a-simple-sticky-navbar-with-css-and-html/
+7. pretty inspirational https://github.com/pin0S/portfolio
+8. search engine "why isnt my css loading" if necessary ;)
+9. get a rough and fast working prototype, hit a glitch.  push to github.
+
+## evaluation: 
+after hitting glitch, go with it. its a solid start and not intimidating ;)
+try to solve the obvious problem for REP / wingbird points.
+
